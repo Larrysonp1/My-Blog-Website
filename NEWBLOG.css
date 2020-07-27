@@ -165,9 +165,6 @@
     width: 400px;
   }
 
-  /*@media only screen and (max-width: 300px) {
-    .Logo  {content: inherit;}
-  }*/
   
   * {
     box-sizing: border-box;
@@ -251,6 +248,8 @@
     }
   }
 
+
+
 .Topicheader{
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -287,6 +286,8 @@
 }
 h2 {
   font-size: 22px;
+  letter-spacing: 1px;
+
 }
 .section span{color: rgb(245, 41, 41);}
  .links{ 
